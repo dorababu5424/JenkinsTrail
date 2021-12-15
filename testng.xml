@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/dorab/AppCRM/JombaneProject/src/main/java/CandidateProfile/JMB_TC_001.java"><classes><class name="CandidateProfile.JMB_TC_001"><methods><include name="Tc1"/></methods></class></classes></test></suite>
